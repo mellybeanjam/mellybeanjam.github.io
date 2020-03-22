@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Tech Contracting</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Tech Contracting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -37,6 +37,15 @@ For decades, independent contracting has been touted as the answer to workers mo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/kyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History of Contracting</title>
+      <link>http://example.org/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/history/</guid>
       <description></description>
     </item>
     

@@ -8,6 +8,7 @@
 
 div.profile-photo {
     justify-content: center;
+    width:100%;
 }
 
 form.contact-form {
