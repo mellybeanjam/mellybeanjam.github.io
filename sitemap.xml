@@ -11,11 +11,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/kyr/</loc>
+    <loc>http://example.org/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/resources/covid/</loc>
   </url>
   
   <url>
@@ -23,7 +23,23 @@
   </url>
   
   <url>
-    <loc>http://example.org/reading/</loc>
+    <loc>http://example.org/rights/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/reading/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rights/</loc>
   </url>
   
   <url>
@@ -32,6 +48,14 @@
   
   <url>
     <loc>http://example.org/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rights/tips/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rights/tricks/</loc>
   </url>
   
 </urlset>

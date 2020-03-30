@@ -32,12 +32,12 @@ For decades, independent contracting has been touted as the answer to workers mo
     </item>
     
     <item>
-      <title>Know Your Rights</title>
-      <link>http://example.org/kyr/</link>
+      <title>Covid 19 Resources</title>
+      <link>http://example.org/resources/covid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/kyr/</guid>
-      <description></description>
+      <guid>http://example.org/resources/covid/</guid>
+      <description>this is the covid response content</description>
     </item>
     
     <item>
@@ -50,12 +50,48 @@ For decades, independent contracting has been touted as the answer to workers mo
     </item>
     
     <item>
-      <title>Reading List</title>
-      <link>http://example.org/reading/</link>
+      <title>Know Your Rights</title>
+      <link>http://example.org/rights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/reading/</guid>
+      <guid>http://example.org/rights/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>http://example.org/resources/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/reading/</guid>
+      <description>test content</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://example.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips</title>
+      <link>http://example.org/rights/tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/rights/tips/</guid>
+      <description>TIPSSSSSSSS</description>
+    </item>
+    
+    <item>
+      <title>Tricks</title>
+      <link>http://example.org/rights/tricks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/rights/tricks/</guid>
+      <description>TRICSKSSSSSS</description>
     </item>
     
   </channel>
