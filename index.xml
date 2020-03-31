@@ -64,7 +64,7 @@ For decades, independent contracting has been touted as the answer to workers mo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://example.org/resources/reading/</guid>
-      <description>test content</description>
+      <description>A selection of readings to keep you up to date on contracting in tech.</description>
     </item>
     
     <item>
@@ -78,20 +78,21 @@ For decades, independent contracting has been touted as the answer to workers mo
     
     <item>
       <title>Tips</title>
-      <link>http://example.org/rights/tips/</link>
+      <link>http://example.org/tips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rights/tips/</guid>
-      <description>TIPSSSSSSSS</description>
+      <guid>http://example.org/tips/</guid>
+      <description>Tips go here.</description>
     </item>
     
     <item>
       <title>Tricks</title>
-      <link>http://example.org/rights/tricks/</link>
+      <link>http://example.org/tricks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/rights/tricks/</guid>
-      <description>TRICSKSSSSSS</description>
+      <guid>http://example.org/tricks/</guid>
+      <description>TRICKS THEY’LL PULL ON YOU There are a number of reasons behind why contracting is so lucrative for businesses. Some of these decisions are made behind the scenes, but many others are done face-to-face.
+HOURS AND PAY Promising contracted employees a certain amount of compensation and then giving them less when it comes time to sign Try to tell you to work without claiming your hours because it will help you get an FTE position (this is wage theft) Placing a higher volume of work, a greater number of hours, and providing less pay to employees with H1B visas.</description>
     </item>
     
   </channel>
