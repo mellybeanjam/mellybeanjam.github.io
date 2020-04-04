@@ -39,11 +39,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/rights/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/rights/kyr/</loc>
+    <loc>http://example.org/kyr/</loc>
   </url>
   
   <url>
@@ -55,11 +51,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/rights/tips/</loc>
+    <loc>http://example.org/tips/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/tricks/</loc>
+    <loc>http://example.org/tricks/</loc>
   </url>
   
 </urlset>
