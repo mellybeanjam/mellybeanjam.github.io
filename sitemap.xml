@@ -23,10 +23,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/rights/</loc>
-  </url>
-  
-  <url>
     <loc>http://example.org/resources/reading/</loc>
   </url>
   
@@ -39,7 +35,15 @@
   </url>
   
   <url>
-    <loc>http://example.org/kyr/</loc>
+    <loc>http://example.org/rights/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rights/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/rights/kyr/</loc>
   </url>
   
   <url>
@@ -51,11 +55,11 @@
   </url>
   
   <url>
-    <loc>http://example.org/tips/</loc>
+    <loc>http://example.org/rights/tips/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tricks/</loc>
+    <loc>http://example.org/rights/tricks/</loc>
   </url>
   
 </urlset>
