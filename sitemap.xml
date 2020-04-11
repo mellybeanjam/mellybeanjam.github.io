@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/</loc>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/resources/covid/</loc>
+    <loc>/resources/covid/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/resources/history/</loc>
+    <loc>/resources/history/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/resources/reading/</loc>
+    <loc>/resources/reading/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/resources/</loc>
+    <loc>/resources/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/resources/</loc>
+    <loc>/resources/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/</loc>
+    <loc>/rights/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/</loc>
+    <loc>/rights/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/kyr/</loc>
+    <loc>/rights/kyr/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/tips/</loc>
+    <loc>/rights/tips/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/rights/tricks/</loc>
+    <loc>/rights/tricks/</loc>
   </url>
   
 </urlset>
